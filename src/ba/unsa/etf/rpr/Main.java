@@ -1,3 +1,4 @@
+package ba.unsa.etf.rpr;
 import java.util.Scanner;
 
 class Sat{
